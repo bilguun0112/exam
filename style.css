@@ -16,6 +16,16 @@
     line-height: 21px;
     font-weight: 400;
     gap: 30px;
+    color: #000000;
+}
+
+.navbar img {
+    width: 48px;
+    height: 48px;
+}
+
+.img img {
+    padding-top: 8px;
 }
 
 .nav {
@@ -23,10 +33,7 @@
     flex-direction: row;
     justify-content: space-between;
     padding: 44px;
-}
-
-.nav img {
-    height: 20.83px;
+    align-items: center;
 }
 
 header {
@@ -40,7 +47,6 @@ header {
 }
 
 .text {
-    font-weight: 600;
     font-size: 70px;
     line-height: 105px;
     position: absolute;
@@ -268,7 +274,6 @@ footer {
 }
 
 .share {
-    font-weight: 400;
     font-size: 18px;
     line-height: 27px;
     margin: 44px 0 0 30px;
@@ -289,6 +294,7 @@ footer {
 }
 
 .t {
+    font-weight: 400;
     font-size: 12px;
     line-height: 18px;
     text-align: center;
