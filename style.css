@@ -290,7 +290,7 @@ footer {
     font-size: 12px;
     line-height: 18px;
     margin: 0;
-    padding: 0;
+    padding-left: 1px;
 }
 
 .t {
@@ -299,6 +299,7 @@ footer {
     line-height: 18px;
     text-align: center;
     color: #666666;
+    padding: 0;
 }
 
 .vr {
