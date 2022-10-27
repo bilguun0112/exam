@@ -32,6 +32,8 @@
 header {
     background: url(./image\ 1.png);
     background-repeat: no;
+    background-size: cover;
+    background-position: center;
     width: 100vw;
     height: 1080px;
     position: relative;
@@ -125,6 +127,7 @@ header {
 .product1 {
     background-image: url(./image\ 7.png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -141,6 +144,7 @@ header {
 .product2 {
     background-image: url(./image\ 8.png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -149,6 +153,7 @@ header {
 .product3 {
     background-image: url(./image\ 9.png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -157,6 +162,7 @@ header {
 .product4 {
     background-image: url(./image\ 10.png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -165,6 +171,7 @@ header {
 .product6 {
     background-image: url(./image\ 8\ \(1\).png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -173,6 +180,7 @@ header {
 .product5 {
     background-image: url(./image\ 7\ \(1\).png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -181,6 +189,7 @@ header {
 .product7 {
     background-image: url(./image\ 7\ \(2\).png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
@@ -189,6 +198,7 @@ header {
 .product8 {
     background-image: url(./image\ 7\ \(3\).png);
     background-size: cover;
+    background-position: center;
     height: 480px;
     background-repeat: no-repeat;
     width: 25%;
